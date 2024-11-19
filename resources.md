@@ -7,6 +7,7 @@
 3. [OpenCV](https://opencv.org/)
 4. [openCV line detection](https://medium.com/@amit25173/opencv-line-detection-ccf6ee026c5c)
 5. github repo in group olagrose
+6. [Dockering python](https://www.docker.com/blog/how-to-dockerize-your-python-applications/)
 
 ## Datasets
 
