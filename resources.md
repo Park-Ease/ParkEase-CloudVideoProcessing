@@ -19,3 +19,4 @@
 
 1. [TP Link C200 controls](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control)
 2. [Tapo C200 api forum discussion page](https://community.tp-link.com/en/home/forum/topic/191894?replyId=409424)
+3. [reddit post](https://www.reddit.com/r/Hikvision/comments/11k2k8q/can_you_add_one_ip_camera_to_two_nvrs_at_the_same/) for sending feed to two different location
