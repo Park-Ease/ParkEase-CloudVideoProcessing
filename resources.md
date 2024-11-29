@@ -14,3 +14,8 @@
 
 1. [Dataset 1](https://www.kaggle.com/code/kerneler/starter-eye-level-parking-lot-015316b8-a)
 2. [Dataset 2](https://www.kaggle.com/datasets/ammarnassanalhajali/pklot-dataset)
+
+## IP Camera
+
+1. [TP Link C200 controls](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control)
+2. [Tapo C200 api forum discussion page](https://community.tp-link.com/en/home/forum/topic/191894?replyId=409424)
