@@ -9,8 +9,17 @@ import pandas as pd
 # from ultralytics import YOLO
 
 def main():
-    # video capture loop
+    # import from .secrets
+    username = ""
+    password = ""
+    ipaddress = ""
+
+    capture = cv2.VideoCapture(f'rtsp://{username}:{password}@{ipaddress}')
+
+    while(True):
+        pass
     pass
+
 
 if __name__ == "__main__":
     main()
